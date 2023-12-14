@@ -1,0 +1,4 @@
+hello this is inside of
+input.txt
+this is the
+end of input.txt
